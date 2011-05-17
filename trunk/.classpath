@@ -2,16 +2,16 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
-	<classpathentry kind="lib" path="deps/cc-4.0.14.1/hessian.jar"/>
-	<classpathentry kind="lib" path="deps/cc-4.0.14.1/inject-16.jar"/>
-	<classpathentry kind="lib" path="deps/cc-4.0.14.1/javaee-16.jar"/>
-	<classpathentry kind="lib" path="deps/cc-4.0.14.1/javamail-141.jar"/>
-	<classpathentry kind="lib" path="deps/cc-4.0.14.1/joda-time-1.6.2.jar"/>
-	<classpathentry kind="lib" path="deps/cc-4.0.14.1/mysql-connector-java-5.1.13-bin.jar"/>
-	<classpathentry kind="lib" path="deps/cc-4.0.14.1/quercus-core.jar"/>
-	<classpathentry kind="lib" path="deps/cc-4.0.14.1/quercus-pdflib.jar"/>
-	<classpathentry kind="lib" path="deps/cc-4.0.14.1/resin-kernel.jar"/>
-	<classpathentry kind="lib" path="deps/cc-4.0.14.1/urlrewrite-4.0.0.jar"/>
 	<classpathentry kind="lib" path="deps/jsch-0.1.44.jar"/>
+	<classpathentry kind="lib" path="/quercus-cc-deps/hessian.jar"/>
+	<classpathentry kind="lib" path="/quercus-cc-deps/inject-16.jar"/>
+	<classpathentry kind="lib" path="/quercus-cc-deps/javaee-16.jar"/>
+	<classpathentry kind="lib" path="/quercus-cc-deps/javamail-141.jar"/>
+	<classpathentry kind="lib" path="/quercus-cc-deps/joda-time-1.6.2.jar"/>
+	<classpathentry kind="lib" path="/quercus-cc-deps/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="/quercus-cc-deps/quercus-core.jar"/>
+	<classpathentry kind="lib" path="/quercus-cc-deps/quercus-pdflib.jar"/>
+	<classpathentry kind="lib" path="/quercus-cc-deps/resin-kernel.jar"/>
+	<classpathentry kind="lib" path="/quercus-cc-deps/urlrewrite-4.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
